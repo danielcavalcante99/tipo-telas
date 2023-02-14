@@ -16,8 +16,6 @@ public class Botao implements Serializable {
 
     private static final long serialVersionUID = -407407085921759593L;
 
-
-    private String registro;
     private String texto;
     private String url;
     private Body body;
