@@ -22,6 +22,7 @@ public class Itens implements Serializable {
     private String id;
     private String titulo;
     private String valor;
+    private String texto;
 
 
 }
