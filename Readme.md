@@ -10,4 +10,4 @@ Projeto que permite o cadastro, consulta, atualização referente o Tipo de Tela
 
 <b>Link Swagger:</b> http://host:port/swagger-ui/index.htm
 
-![img.png](img.png)
+![image](https://user-images.githubusercontent.com/74054701/218830116-ac88cf24-e7df-47e9-bb9a-dcc32f5f952d.png)
